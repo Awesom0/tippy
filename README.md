@@ -4,7 +4,7 @@
 
 Submitted by: Felipe De La Torre
 
-Time spent: **X** hours spent in total
+Time spent: **3** hours spent in total
 
 ## User Stories
 
